@@ -1,0 +1,17 @@
+.bg-red {
+	background-color: cyan;
+}
+
+.red {
+	color: blue;
+}
+
+.btn-red {
+	background-color: gray;
+	border-color:  darkorange;
+	color: white;
+}
+
+body {
+	background-color:whitesmoke;
+}
